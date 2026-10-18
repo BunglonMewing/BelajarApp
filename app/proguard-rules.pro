@@ -1,0 +1,3 @@
+-keep class com.devin.belajarapp.model.** { *; }
+-keep class com.devin.belajarapp.receiver.** { *; }
+-keep class com.devin.belajarapp.service.** { *; }
